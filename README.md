@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatiaBadger
 - 👀 I’m interested in ...The future Robotics and AI
 - 🌱 I’m currently learning ... Coding and embbed sytmes 
-- 💞️ I’m looking to collaborate on ... Any thign i feel like it will all help me 
+- 💞️ I’m looking to collaborate on ... Anything, im open to learn everything
 - 📫 How to reach me ... 
 
 <!---
